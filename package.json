@@ -1,0 +1,39 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "portfolio of julius ehrlich",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:julius_ehrlich/portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "php",
+    "developer",
+    "laravel",
+    "berlin",
+    "germany"
+  ],
+  "author": "julius ehrlich",
+  "license": "BSD",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "4.0.0",
+    "gulp-clean": "~0.3.2",
+    "gulp-clean-css": "3.9.0",
+    "gulp-concat": "~2.6.1",
+    "gulp-filesize": "0.0.6",
+    "gulp-jshint": "^2.0.4",
+    "gulp-rename": "~1.2.2",
+    "gulp-task-listing": "1.0.1",
+    "gulp-uglify": "3.0.0",
+    "gulp-util": "3.0.8",
+    "gulp-watch": "4.3.11",
+    "jshint": "^2.9.5",
+    "run-sequence": "2.2.0"
+  }
+}
